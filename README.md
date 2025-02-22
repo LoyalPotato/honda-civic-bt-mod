@@ -1,4 +1,4 @@
-# honda-civic-bt-mod
+# 04 Honda Civic (Pionneer DEH-M6006ZH) Bluetooth Mod 
 
 Documented here are the steps, resources and components that I used in order to get Bluetooth support on my 2004 Honda Civic (Hatchback) :)
 
